@@ -1,0 +1,24 @@
+The src folder contains two files:
+
+Prerequisite:
+Lucene search is based on inverted indexing. It proceeds in two phases: Indexing and searching.
+Indexing: practodoctorsearch.java
+Searching:practodoctorsearch1.java
+
+1. practodoctorsearch.java
+   Uses Lucene libraries.
+   Used for building indices of documents to proceed searching using Lucene libraries.
+   Builds an index for 10 documents. 
+   The input consist of data of 10 doctors each characterized by: Name, Locality, Experience and Speciality.
+   
+2. practodoctorsearch1.java
+   Uses Lucene Libraries.
+   Used for searching the doctor.
+   The code implements all types of queries:
+   Basic Term Query
+   Prefix Query
+   Fuzzy Query
+   TermRangeQuery
+
+To run the above two files, First run numbered 1 file followed by 2nd file.I used Eclipse which makes comfortable for files to run.
+Lucene 6.6.0 version is used.
