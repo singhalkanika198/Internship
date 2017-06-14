@@ -1,4 +1,4 @@
-Contains two files
+The src folder contains two files:
 
 1. search.java
    Implements a basic hashmap in java and do searching on the basis of the key provided by the user.
