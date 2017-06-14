@@ -1,0 +1,9 @@
+Contains two files
+
+1. search.java
+   Implements a basic hashmap in java and do searching on the basis of the key provided by the user.
+ 
+ 
+2. search2.java
+   Implements 'multivalued' hashmap in java and do searching on the basis of the key provided by the user.
+ 
